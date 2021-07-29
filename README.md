@@ -1,4 +1,4 @@
-[![Deploy](https://telegra.ph/file/aaa10262ebe6670eecf58.jpg)](https://heroku.com/deploy?template=https://github.com/QueenArzoo/LaylaRobot.git)
+[![Deploy](https://telegra.ph/file/c8d06acbbfd6a4af89e8d.jpg)](https://heroku.com/deploy?template=https://github.com/Drmehmetaktas/LaylaRobot.git)
 # Layla Robot
 
 

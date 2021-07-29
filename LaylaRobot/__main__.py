@@ -658,12 +658,13 @@ def donate(update: Update, context: CallbackContext):
                 disable_web_page_preview=True,
             )
 
+
             update.effective_message.reply_text(
-                "I've PM'ed you about donating to my creator!"
+                "**Yaratıcıma bağış yapman için sana PM attım**!"
             )
         except Unauthorized:
             update.effective_message.reply_text(
-                "Contact me in PM first to get donation information."
+                "**Bağış bilgisi almak için önce PM'den bana ulaşın**."
             )
 
 

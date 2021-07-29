@@ -659,14 +659,11 @@ def donate(update: Update, context: CallbackContext):
             )
 
             update.effective_message.reply_text(
-                "İçerik oluşturucuma bağışta bulunmanız için size PM gönderdim."
-
-             )
-
+                "I've PM'ed you about donating to my creator!"
             )
         except Unauthorized:
             update.effective_message.reply_text(
-                "Bağış bilgisi almak için önce PM'den bana ulaşın."
+                "Contact me in PM first to get donation information."
             )
 
 

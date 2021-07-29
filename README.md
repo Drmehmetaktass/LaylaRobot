@@ -24,7 +24,7 @@ Turn on worker dyno (Don't worry It's free :D) & Webhook
 Now send the bot /start, If it doesn't respond go to https://dashboard.heroku.com/apps/(app-name)/settings and remove webhook and port.
 ```
 
-[![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?button-url=https://heroku.com/deploy?template=https://github.com/Drmehmetaktass/LaylaRobot
+[![Deploy To Heroku] https://heroku.com/deploy?template=https://github.com/Drmehmetaktass/LaylaRobot
 
 
 </details>  
